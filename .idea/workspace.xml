@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0b112eb-011e-443e-985c-a1aad674e268" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/controller/AtencionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/controller/AtencionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/controller/MascotaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/controller/MascotaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/controller/PersonaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/controller/PersonaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/controller/TipoAtencionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/controller/TipoAtencionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/controller/TurnoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/controller/TurnoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/entity/Atencion.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/entity/Atencion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/repository/MascotaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/repository/MascotaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/service/FIchaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/service/FIchaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/service/TurnoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/ClinicaVeterinaria/ClinicaVeterinaria/service/TurnoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/MascotaModal.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/MascotaModal.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/ConfirmarTurno.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/ConfirmarTurno.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3ITvFaJnsjv9UpjoCrUDCR5pygH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0b112eb-011e-443e-985c-a1aad674e268" name="Changes" comment="" />
+      <created>1787801269757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787801269757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
